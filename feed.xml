@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>haithamalkhafaji</title>
-    <link href="https://haithamalkhafaji.github.io/feed.xml" rel="self" />
-    <link href="https://haithamalkhafaji.github.io" />
+    <link href="https://haithamalkhafaji.com/feed.xml" rel="self" />
+    <link href="https://haithamalkhafaji.com" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Haitham Alkhafaji</name>
     </author>
-    <id>https://haithamalkhafaji.github.io</id>
+    <id>https://haithamalkhafaji.com</id>
 
 </feed>
