@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://[haithamalkhafaji.github.io](https://haithamalkhafaji.github.io)/sitemap.xml
